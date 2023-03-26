@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-## Name: Darshan Prajapati🧑🏽‍💻
+## Name: Jeet Patel🧑🏽‍💻
 
 ## 📚 Education : 
-  - Master of Applied Computer Science(MACompSc), Concordia University
+  - MSc Computer Science, Lakehead University
   - Beachlor of Technology in Information Technology, Charotar University of Science and Technology
 
 ## 🧑🏽‍💻 Experience: 
-  - Technology Assistant, Concordia University
-  - Full Stack Developer-Freelancer, Novarsys Tech
-  - Artificial Intelligence Intern, Indian Army
-  - Deep Learning Intern, LeadingIndia.AI
+  - Android Developer, Full Stack Developer-Freelancer, Deskcode Solution Pvt. Ltd.
+  - Android Developer Intern, Ashvi Consultancy Service
+  - Android Developer Intern, HandsTogether Tech
  
 
 ## 👨🏼 About Me: 
-- 🔭 I'm currently working on certain projects from which I can get the path of creating the pipelines, exploring system design and developing microservices using java and python. 
-- 📫 How to reach me: dprajapati5206@gmail.com
-- 😄 Pronouns: He/Him
+- I’m currently trying to learn Jetpack Compose and Kotlin Multiplatform Mobile.
+- I’m currently working on some of my side projects :P
+-  I’m looking to collaborate on anything free and open source 
+- 📫 How to reach me: jeetpatel5699@gmail.com
