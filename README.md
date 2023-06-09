@@ -7,9 +7,10 @@
   - Beachlor of Technology in Information Technology, Charotar University of Science and Technology
 
 ## 🧑🏽‍💻 Experience: 
-  - Software Developer, Android Developer-Freelancer, Deskcode Solution Pvt. Ltd.
-  - Software Developer Intern, Ashvi Consultancy Service
-  - Software Developer Intern, HandsTogether Tech
+  - Android Developer, Quest Software
+  - Android Developer, Deskcode Solution Pvt. Ltd.
+  - Android Developer Intern, Ashvi Consultancy Service
+  - Android Developer Intern, HandsTogether Tech
  
 
 ## 👨🏼 About Me: 
