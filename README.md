@@ -4,17 +4,19 @@
 
 ## 📚 Education : 
   - MSc Computer Science, Lakehead University
-  - Beachlor of Technology in Information Technology, Charotar University of Science and Technology
+  - Bachelor of Technology in Information Technology, Charotar University of Science and Technology
 
 ## 🧑🏽‍💻 Experience: 
-  - Android Developer, Whitecap
-  - Android Developer, QBurst
+  - Android Developer, Quest Software
+  - Android Developer, Deskcode Solution Pvt. Ltd
+  - Android Developer, Ashvi Consultancy Service
+  - Android Developer, HandsTogether Tech
  
 
 ## 👨🏼 About Me: 
 - I’m currently trying to learn Jetpack Compose and Kotlin Multiplatform Mobile.
 - I’m currently working on some of my side projects :P
--  I’m looking to collaborate on anything free and open source 
+- I’m looking to collaborate on anything free and open-source 
 - 📫 How to reach me: jeetpatel5699@gmail.com
 
 <a href="https://www.linkedin.com/in/jeet-patel-b46184141/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
