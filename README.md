@@ -7,11 +7,8 @@
   - Bachelor of Technology in Information Technology, Charotar University of Science and Technology
 
 ## 🧑🏽‍💻 Experience: 
-  - Android Developer, Quest Software
-  - Android Developer, Deskcode Solution Pvt. Ltd
-  - Android Developer, Ashvi Consultancy Service
-  - Android Developer, HandsTogether Tech
- 
+  - Android Developer, WhiteCap Search
+  - Android Developer, QBurst
 
 ## 👨🏼 About Me: 
 - I’m currently trying to learn Jetpack Compose and Kotlin Multiplatform Mobile.
