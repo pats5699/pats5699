@@ -7,7 +7,7 @@
   - Bachelor of Technology in Information Technology, Charotar University of Science and Technology
 
 ## 🧑🏽‍💻 Experience: 
-  - Android Developer, WhiteCap Search
+  - Android Developer, WhiteCap Canada
   - Android Developer, QBurst
 
 ## 👨🏼 About Me: 
