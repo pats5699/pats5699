@@ -7,11 +7,10 @@
   - Bachelor of Technology in Information Technology, Charotar University of Science and Technology
 
 ## 🧑🏽‍💻 Experience: 
-  - Android Developer, WhiteCap Canada
-  - Android Developer, QBurst
+  - Android Developer, BeKnown Enterprise
 
 ## 👨🏼 About Me: 
-- I’m currently trying to learn Jetpack Compose and Kotlin Multiplatform Mobile.
+- I’m currently trying to learn Kotlin Multiplatform Mobile.
 - I’m currently working on some of my side projects :P
 - I’m looking to collaborate on anything free and open-source 
 - 📫 How to reach me: jeetpatel5699@gmail.com
