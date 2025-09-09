@@ -6,9 +6,6 @@
   - MSc Computer Science, Lakehead University
   - Bachelor of Technology in Information Technology, Charotar University of Science and Technology
 
-## 🧑🏽‍💻 Experience: 
-  - Android Developer, BeKnown Enterprise
-
 ## 👨🏼 About Me: 
 - I’m currently trying to learn Kotlin Multiplatform Mobile.
 - I’m currently working on some of my side projects :P
